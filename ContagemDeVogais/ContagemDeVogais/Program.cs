@@ -16,10 +16,10 @@ namespace ContagemVogais
             Console.WriteLine("Escreva um texto");
             texto = Console.ReadLine();
 
-            for (int i = 0;  i < texto.Length; i++)
+            for (int i = 0; i < texto.Length; i++)
             {
                 if (texto[i] == 'A' || texto[i] == 'a')
-                ctd = ctd + 1;
+                    ctd = ctd + 1;
 
                 else if (texto[i] == 'E' || texto[i] == 'e')
                     ctd = ctd + 1;
