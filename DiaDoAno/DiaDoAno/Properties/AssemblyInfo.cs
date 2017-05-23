@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("MesPorExtenso")]
+[assembly: AssemblyTitle("DiaDoAno")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Hewlett-Packard Company")]
-[assembly: AssemblyProduct("MesPorExtenso")]
+[assembly: AssemblyProduct("DiaDoAno")]
 [assembly: AssemblyCopyright("Copyright © Hewlett-Packard Company 2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("b8458fbe-776b-4c28-ad46-43674b6afed6")]
+[assembly: Guid("d083c6c9-1a49-4f52-adb2-e504f4b134d2")]
 
 // Version information for an assembly consists of the following four values:
 //
