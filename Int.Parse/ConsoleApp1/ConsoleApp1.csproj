@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E8FAC041-B81B-4634-AF57-48AA2C856900}</ProjectGuid>
+    <ProjectGuid>{97E40F6E-9BFB-4EF6-992E-0A80477348E1}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CompetiçãoDeCorrida</RootNamespace>
-    <AssemblyName>CompetiçãoDeCorrida</AssemblyName>
+    <RootNamespace>ConsoleApp1</RootNamespace>
+    <AssemblyName>ConsoleApp1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
