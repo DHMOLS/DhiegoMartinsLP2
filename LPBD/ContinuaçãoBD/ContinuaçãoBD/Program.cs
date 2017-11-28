@@ -15,9 +15,10 @@ namespace Carro
 
             Console.WriteLine("Opção 1 - Cadastrar");
             Console.WriteLine("Opção 2 - Remover");
+            Console.WriteLine("Opção 3 - Sair");
             opçao = int.Parse(Console.ReadLine());
 
-            SqlConnection conexao = new SqlConnection("Data Source=EN2LIC_11;Initial Catalog=AULA_LP2;Integrated Security=SSPI");
+            SqlConnection conexao = new SqlConnection("Data Source=EN2LIC_02;Initial Catalog=Carro;Integrated Security=SSPI");
             SqlCommand cmd = new SqlCommand();
             cmd.Connection = conexao;
 
